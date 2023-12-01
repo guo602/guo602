@@ -3,26 +3,26 @@
 
 ### My toolbox
 <div>
-  <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/Linux" alt="Kotlin" />
-  <img align="left" height="30" width="30" style="margin: 10px;"  src="https://cdn.simpleicons.org/ubuntu" alt="Kotlin" />
-  <img align="left" height="30" width="30" style="margin: 10px;"  src="https://cdn.simpleicons.org/Windows" alt="Kotlin" />
-  <img align="left" height="30" width="30" style="margin: 10px;"  src="https://cdn.simpleicons.org/apple" alt="Kotlin" />
-  <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/c" alt="Kotlin" />
-  <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/powershell" alt="Kotlin" />
-  <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/python" alt="Kotlin" />
-  <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/tensorflow" alt="Kotlin" />
-  <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/pytorch" alt="Kotlin" />
-  <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/pandas" alt="Kotlin" />
-  <img align="left" height="30" width="30" style="margin: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" />
-  <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/mysql" alt="Kotlin" />
-  <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/redis" alt="Kotlin" />
-  <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/javascript" alt="Kotlin" />
-  <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/react" alt="Kotlin" />
+  <img align="left" height="30" width="30" style="margin: 5px;" src="https://cdn.simpleicons.org/Linux" alt="Kotlin" />
+  <img align="left" height="30" width="30" style="margin: 5px;"  src="https://cdn.simpleicons.org/ubuntu" alt="Kotlin" />
+  <img align="left" height="30" width="30" style="margin: 5px;"  src="https://cdn.simpleicons.org/Windows" alt="Kotlin" />
+  <img align="left" height="30" width="30" style="margin: 5px;"  src="https://cdn.simpleicons.org/apple" alt="Kotlin" />
+  <img align="left" height="30" width="30" style="margin: 5px;" src="https://cdn.simpleicons.org/c" alt="Kotlin" />
+  <img align="left" height="30" width="30" style="margin: 5px;" src="https://cdn.simpleicons.org/powershell" alt="Kotlin" />
+  <img align="left" height="30" width="30" style="margin: 5px;" src="https://cdn.simpleicons.org/python" alt="Kotlin" />
+  <img align="left" height="30" width="30" style="margin: 5px;" src="https://cdn.simpleicons.org/tensorflow" alt="Kotlin" />
+  <img align="left" height="30" width="30" style="margin: 5px;" src="https://cdn.simpleicons.org/pytorch" alt="Kotlin" />
+  <img align="left" height="30" width="30" style="margin: 5px;" src="https://cdn.simpleicons.org/pandas" alt="Kotlin" />
+  <img align="left" height="30" width="30" style="margin: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" />
+  <img align="left" height="30" width="30" style="margin: 5px;" src="https://cdn.simpleicons.org/mysql" alt="Kotlin" />
+  <img align="left" height="30" width="30" style="margin: 5px;" src="https://cdn.simpleicons.org/redis" alt="Kotlin" />
+  <img align="left" height="30" width="30" style="margin: 5px;" src="https://cdn.simpleicons.org/javascript" alt="Kotlin" />
+  <img align="left" height="30" width="30" style="margin: 5px;" src="https://cdn.simpleicons.org/react" alt="Kotlin" />
 
 
 
-  <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/Go" alt="Android" />
-  <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/Git" alt="Git" />
+  <img align="left" height="30" width="30" style="margin: 5px;" src="https://cdn.simpleicons.org/Go" alt="Android" />
+  <img align="left" height="30" width="30" style="margin: 5px;" src="https://cdn.simpleicons.org/Git" alt="Git" />
   <br/><br/><br/>
 </div>
 
