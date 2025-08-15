@@ -8,10 +8,10 @@
 <div>
   <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/Linux" alt="Linux" />
   <img align="left" height="30" width="30" style="margin: 10px;"  src="https://cdn.simpleicons.org/ubuntu" alt="ubuntu" />
-  <img align="left" height="30" width="30" style="margin: 10px;"  src="https://cdn.simpleicons.org/Windows" alt="Windows" />
+  <!-- <img align="left" height="30" width="30" style="margin: 10px;"  src="https://cdn.simpleicons.org/Windows" alt="Windows" /> -->
   <img align="left" height="30" width="30" style="margin: 10px;"  src="https://cdn.simpleicons.org/apple" alt="apple" />
   <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/c" alt="c" />
-  <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/powershell" alt="powershell" />
+  <!-- <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/powershell" alt="powershell" /> -->
   <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/python" alt="python" />
   <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/tensorflow" alt="tensorflow" />
   <img align="left" height="30" width="30" style="margin: 10px;" src="https://cdn.simpleicons.org/pytorch" alt="pytorch" />
